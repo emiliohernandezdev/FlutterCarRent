@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "930071719352",
+    "firebase_url": "https://rentappgt.firebaseio.com",
+    "project_id": "rentappgt",
+    "storage_bucket": "rentappgt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930071719352:android:9f8bc6e5b7fcd32923334d",
+        "android_client_info": {
+          "package_name": "com.example.rentacargt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930071719352-vvnc35oj190j3hf782rpveea2citmqf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6bFn4zuk0Pghh5aJUeC3SMD98F-4-v7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930071719352-vvnc35oj190j3hf782rpveea2citmqf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
